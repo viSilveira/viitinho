@@ -1,6 +1,6 @@
-# viitinho eu tenho 15 anos, sou engraçado e odeio fazer os negócios dessas plataformas
+# meu nome é Vitor e eu tenho 15 anos, sou engraçado e odeio fazer os negócios dessas plataformas
 # 💫 About Me:
-🔭 meu nome é vitor e tenho 15 anos<br>👯 gosto de jogar bola e fazer dinheiro<br>🤝 <br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 meu nome é vitor e tenho 15 anos<br>👯 gosto de jogar bola e fazer dinheiro com apostas<br>
 
 
 # 💻 Tech Stack:
