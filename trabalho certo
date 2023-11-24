@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Bem-vindo à Mídia Grifes</title>
+</head>
+
+<body>
+    <header>
+        <h1>Bem-vindo à Mídia Grifes</h1>
+        <p>O santuário para os amantes da moda e entusiastas de todas as tendências.</p>
+    </header>
+
+    <main>
+        <section>
+            <h2>Sobre Nós</h2>
+            <p>Localizada no coração pulsante da cidade, nossa loja é um oásis para os apaixonados por estilo, onde cada
+                peça conta sua própria história.</p>
+            <p>Ao atravessar nossas portas, você será imerso em um mundo de elegância e inovação. A Mídia Grifes é muito
+                mais do que uma loja de roupas; é uma experiência de moda completa, onde a criatividade se encontra com
+                a sofisticação.</p>
+        </section>
+
+        <section>
+            <h2>Nossa Seleção</h2>
+            <p>Nossas prateleiras exibem uma cuidadosa seleção das marcas mais exclusivas e cobiçadas do mercado. Das
+                passarelas de Paris às tendências emergentes de Tóquio, nossa curadoria abraça a diversidade da moda
+                global. Cada peça é escolhida a dedo, representando a fusão entre artesanato impecável e design
+                inovador.</p>
+        </section>
+
+        <section>
+            <h2>Atendimento ao Cliente</h2>
+            <p>Nossa equipe apaixonada está sempre à disposição para oferecer orientação personalizada e consultoria de
+                estilo, garantindo que sua visita seja mais do que uma simples compra, mas sim uma jornada de
+                autoexpressão através da moda.</p>
+            <p>A excelência no atendimento ao cliente é a nossa prioridade. Cada cliente é recebido com calorosa
+                hospitalidade e atenção aos detalhes, criando uma atmosfera acolhedora e luxuosa para explorar as
+                últimas tendências ou descobrir novos estilos.</p>
+        </section>
+
+        <section>
+            <h2>Eventos Exclusivos</h2>
+            <p>Além disso, periodicamente, organizamos eventos exclusivos, desde desfiles de moda a sessões de
+                consultoria com estilistas renomados, proporcionando experiências únicas aos nossos clientes mais
+                fiéis.</p>
+        </section>
+
+        <footer>
+            <p>Prepare-se para descobrir um universo de estilo e glamour na Mídia Grifes, onde cada visita é uma
+                oportunidade para se conectar com a moda de maneira única e inesquecível.</p>
+        </footer>
+    </main>
+
+</body>
+
+</html>
